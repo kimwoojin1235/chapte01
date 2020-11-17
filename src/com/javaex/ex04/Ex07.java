@@ -4,8 +4,8 @@ public class Ex07 {
 
 	public static void main(String[] args) {
 		
-		for (int i = 0; i <5; i++) {
-			for (int st = 0; st <=i; st++) {
+		for (int i = 1; i <=6; i++) {
+			for (int st = 1; st <=6; st++) {
 				System.out.print("*");
 			}
 			System.out.println();

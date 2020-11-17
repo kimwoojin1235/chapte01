@@ -7,7 +7,7 @@ public class Ex06 {
 		
 		for (i=1; i<=6; i++) {
 			
-			for(int y=1; y<=i; y++) {
+			for(int y=1; y<=6; y++) {
 				System.out.print("*");
 			}
 			System.out.println();
