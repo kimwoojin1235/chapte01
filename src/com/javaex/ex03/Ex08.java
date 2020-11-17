@@ -17,13 +17,13 @@ public class Ex08 {
 			st="R101호";
 		}
 		else if (point==2) {
-			st="R102호";
+			st="R202호";
 		}
 		else if (point==3) {
-			st="R103호";
+			st="R303호";
 		}
 		else if (point==4) {
-			st="R104호";
+			st="R404호";
 		}else {
 			st="상담원에게 문의해주세요";
 		}
